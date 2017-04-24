@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+  {% include head.html %}
+
+  <body>
+{% include header.html %}
+  <div class="jumbotron" style="background: url({{site.baseurl}}/{{ page.hero_img }}) center no-repeat; background-size: cover ; "></div>
+  <div class="photo-credit text-center">{% if page.photo_credit == nil or page.photo_credit == '' %} {% else %} Crédit image: {{page.photo_credit}} {% endif %}</div>
+
+  <div class="container container-post">
+	  <h1> {{page.title}} </h1>
+	  <h4 class="date-post"><small>{% include post-date.html %}</small></h4>
+	    <section>
+      {{ content }}
+      </section>
+    <hr>
+    <section class="section-small">
+    <div class="text-center">
+      <h5 class="date-post">Partager cet article</h5>
+      <a href="{{site.url}}{{post.url}}" rel="nofollow" onclick="window.open('https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}&title={{post.title}}', 'newwindow', 'width=600, height=400'); return false;" target="_blank" title="Partager sur Facebook"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+    </div>
+    </section>
+    <hr>
+  </div>
+
+<section>
+  <div class="container">
+        {% for post in site.posts limit:3 %}
+           {% cycle 'add row' : '<div class="row">', nil, nil, %}
+           <div class="col-md-4">
+         		<a href="{{site.baseurl}}{{post.url}}">
+         			<div class="well well-post">
+         			 	 <div class="well-img" style="background: url({{site.baseurl}}/{{ post.hero_img }}) center no-repeat; background-size: cover ; "> </div>
+         			 	<h3 class="well-title">{{post.title}}</h3>
+         			 	<p class="well-subtitle">{{post.subtitle | truncatewords: 20}}</p>
+         			 	</a>
+         			 	<div class="well-date">{% include date-french.html %}</div>
+         			 	<!--  <a href="{{site.baseurl}}{{post.tags}}"><div class="well-tag"><i class="fa fa-tag" aria-hidden="true"></i> {{ post.tags }}</div></a>-->
+         			</div>
+         	</div>
+         {% cycle 'end row' : nil, nil, '</div>' %}
+        {% endfor %}
+    </div>
+  </section>
+
+    <div class="container container-post">
+      {% if page.comments %}
+      <div id="disqus_thread"></div>
+      <script>
+
+      /**
+      *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+      *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables*/
+      /*
+      var disqus_config = function () {
+      this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+      this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+      };
+      */
+      (function() { // DON'T EDIT BELOW THIS LINE
+      var d = document, s = d.createElement('script');
+      s.src = '//lespetitshugues-fr.disqus.com/embed.js';
+      s.setAttribute('data-timestamp', +new Date());
+      (d.head || d.body).appendChild(s);
+      })();
+      </script>
+      <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+      {% endif %}
+    </div>
+
+
+{% include footer.html %}
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="{{ "/js/bootstrap.js" | prepend: site.baseurl }}"></script>
+
+  </body>
+</html>

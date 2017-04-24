@@ -1,0 +1,21 @@
+---
+layout: page
+---
+
+{% for post in site.tags.voyage %}
+
+ {% cycle 'add row' : '<div class="row">', nil, nil, %}
+	<div class="col-md-4">
+		<a href="{{site.baseurl}}{{post.url}}">
+			<div class="well well-post">
+			 	 <div class="well-img" style="background: url({{site.baseurl}}/{{ post.hero_img }}) center no-repeat; background-size: cover ; "> </div>
+			 	<h3 class="well-title">{{post.title}}</h3>
+			 	<p class="well-subtitle">{{post.subtitle | truncatewords: 20}}</p>
+			 	</a>
+			 	<div class="well-date">{% include date-french.html %}</div>
+			 	<a href="{{site.baseurl}}{{post.tags}}"><div class="well-tag"><i class="fa fa-tag" aria-hidden="true"></i> {{ post.tags }}</div></a>
+			</div>
+	</div>
+{% cycle 'end row' : nil, nil, '</div>' %}
+{% endfor %}
+</div>

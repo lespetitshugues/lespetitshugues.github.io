@@ -1,0 +1,17 @@
+---
+font:
+  primary: '"crimson text", Helvetica'
+  secondary: '"Lora", Helvetica'
+  third: '"Open Sans", Helvetica'
+color:
+  primary: 5c74ad
+  secondary: c2ccce
+social:
+  instagram: https://www.instagram.com/lespetitshugues/
+  facebook: https://www.facebook.com/lespetitshugues/?fref=ts
+  pinterest: https://fr.pinterest.com/lespetitshugues/
+logo:
+  img: "/img/logo.jpg"
+description:
+  footer: Les Petits Hugues, ce sont les petits bonheurs d’une fille de la mer avec
+    un penchant pour les chats, le café, et les Minis Cooper. Bienvenue !
