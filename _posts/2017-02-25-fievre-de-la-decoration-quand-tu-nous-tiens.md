@@ -8,8 +8,6 @@ title: Fièvre du DIY quand tu nous tiens
 date: 2017-02-24 18:48
 photo_credit: Frenchblossom.com
 ---
-
-
 Dire que j’ai peu d’expérience en matière de décoration d’intérieur, c'est un euphémisme. Si je devais passer un entretien chez Habitat ou Maisons du Monde, je mettrai en avant le fait que j’ai déjà redécoré 52 maison de Sim’s, et qu’ils avaient l’air plutôt contents d’après leur jauge de bonne humeur. Ça me fait une belle jambe.
 
 
@@ -49,7 +47,7 @@ Voici **quelques exemples de décorations faites maison** :
 Bien entendu, je ne vais pas m’arrêter en si bon chemin. J’ai déjà fait des repérages sur Pinterest et Instagram de projets que j’ai envie de faire.
 
 
-1. Une **suspension en origami**, ici réalisée par La blogueuse Le Chat à Plumes. J'avais déjà repéré des suspensions similaires vendues par la marque [Agent Paper](http://www.agentpaper.com/2956-abat-jour-arine.html), au salon Créations et Savoir-Faire. Les lampes maison me font de l’œil, c’est très hygge ! Ce n’est pas le blog des petits hugues pour rien ;)
+2. Une **suspension en origami**, ici réalisée par La blogueuse Le Chat à Plumes. J'avais déjà repéré des suspensions similaires vendues par la marque [Agent Paper](http://www.agentpaper.com/2956-abat-jour-arine.html), au salon Créations et Savoir-Faire. Les lampes maison me font de l’œil, c’est très hygge ! Ce n’est pas le blog des petits hugues pour rien ;)
 
 
 ![](/img/posts/luminaire.jpg)
@@ -60,7 +58,7 @@ Bien entendu, je ne vais pas m’arrêter en si bon chemin. J’ai déjà fait d
 ### Crédit d'image : [Le chat à plumes](http://deplumeusedechats.blogspot.fr/2014/02/lampe-geoball-terminee.html)
 
 
-1. Le **plateau DIY** repéré sur Pinterest : il me manque un plateau à la maison ! Pas très gênant à priori, sauf pour les apéros et les petits déjs au lit du dimanche matin…
+3. Le **plateau DIY** repéré sur Pinterest : il me manque un plateau à la maison ! Pas très gênant à priori, sauf pour les apéros et les petits déjs au lit du dimanche matin…
 
 
 ![](/img/posts/Plateau%20DIY-1.jpg)
@@ -71,12 +69,10 @@ Bien entendu, je ne vais pas m’arrêter en si bon chemin. J’ai déjà fait d
 ### Crédit d'image : [Inspired by charm](http://inspiredbycharm.com/)
 
 
-1. Des **tables de nuit en palettes de bois**, repéré sur l'instagram de Christophe (chr15_m), le chéri de la blogueuse [Les Tribulations d'Anaïs](http://tribulationsdanais.com/).  C’est la touche qui manque à ma chambre : deux tables de nuit similaires (oui, j’aime bien la symétrie). J’ai suivi tous les [vlogs de chantier](https://www.youtube.com/playlist?list=PLFy1r58Oqwi_CfHOOjnRXUrMNUfFW3pj9) d’Anaïs et Christophe, qui ont entièrement refait leur maison à Montpellier, et ces tables de nuit réalisées par Christophe me donnent vraiment envie de récupérer des vieilles palettes !![](/img/tabouret.jpg)
+4. Des **tables de nuit en palettes de bois**, repéré sur l'instagram de Christophe (chr15_m), le chéri de la blogueuse [Les Tribulations d'Anaïs](http://tribulationsdanais.com/).  C’est la touche qui manque à ma chambre : deux tables de nuit similaires (oui, j’aime bien la symétrie). J’ai suivi tous les [vlogs de chantier](https://www.youtube.com/playlist?list=PLFy1r58Oqwi_CfHOOjnRXUrMNUfFW3pj9) d’Anaïs et Christophe, qui ont entièrement refait leur maison à Montpellier, et ces tables de nuit réalisées par Christophe me donnent vraiment envie de récupérer des vieilles palettes !![](/img/tabouret.jpg)
 
 
-<span style="color: rgb(40, 40, 40); font-size: 1.5em; word-spacing: 0.5px;">Crédit d'image : </span><a href="https://www.instagram.com/p/BQLT03CBZLb/?taken-by=chr15_m" style="font-size: 1.5em; word-spacing: 0.5px; background-color: rgb(255, 255, 255);">Christophe</a>
+Crédit d'image : </span><a href="https://www.instagram.com/p/BQLT03CBZLb/?taken-by=chr15_m">Christophe</a>
 
 
 **Et vous, quels sont vos projets déco ?**
-
-
