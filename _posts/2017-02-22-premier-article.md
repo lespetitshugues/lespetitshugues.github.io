@@ -2,10 +2,10 @@
 layout: post
 title: 'Le tout premier article '
 subtitle: Parce qu'il fallait bien commencer quelque part !
-hero_img: img/posts/tablet-1250410_1920.jpg
-photo_credit:
+hero_img: img/tablet-1250410_1920.jpg
+photo_credit: ''
 date: 2017-02-07 00:00
-tags:
+tags: []
 comments: true
 ---
 _Allez… 3… 2… 1… Je me lance ! J’ai le trac._
