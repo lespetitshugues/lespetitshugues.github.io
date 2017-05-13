@@ -29,7 +29,7 @@ Avis aux amateurs de cuisine, vous trouverez aussi les précédents exemplaires 
 
 Pour celles et ceux qui ne seraient pas déjà convaincus, une petite visite chez Madeleine et Gustave est aussi l’occasion de faire un tour à [Du Pain et des Idées](https://dupainetdesidees.com/en/) juste à côté, emblématique boulangerie parisienne où la baguette devrait pouvoir se payer en trois fois sans frais ; mais qu’est-ce que c’est bon !
 
-<img src="img/DSC02593-2.jpg" class="">
+![](img/DSC02593-3.jpg)
 
 ### Au plafond, au mur, sur le sol... il faut avoir l'oeil partout.
 
