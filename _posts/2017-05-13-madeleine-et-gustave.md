@@ -15,7 +15,7 @@ Aujourd’hui j’ai passé la porte de [Madeleine et Gustave](http://madeleine-
 
 ![](/img/DSC02630.jpg)
 
-### La boutique est ouverte du mardi au jeudi de 13h à 17h15, et le vendredi et samedi de 11h15 à 20h
+### La boutique est ouverte du mardi au jeudi de 13h à 19h15, et le vendredi et samedi de 11h15 à 20h
 
 <img src="/img/DSC02640.jpg" class="">
 
@@ -28,8 +28,6 @@ Le nom « Madeleine et Gustave » est en réalité un clin d’œil à un couple
 Avis aux amateurs de cuisine, vous trouverez aussi les précédents exemplaires de la revue 180° ; et pour ceux qui aurait envie d’une petite pause détente, vous trouverez un petit café et une part de gâteau maison au 2ème étage, servis par la pétillante Guillemette.
 
 Pour celles et ceux qui ne seraient pas déjà convaincus, une petite visite chez Madeleine et Gustave est aussi l’occasion de faire un tour à [Du Pain et des Idées](https://dupainetdesidees.com/en/) juste à côté, emblématique boulangerie parisienne où la baguette devrait pouvoir se payer en trois fois sans frais ; mais qu’est-ce que c’est bon !
-
-![](/img/DSC02593.jpg)
 
 ### Au plafond, au mur, sur le sol... il faut avoir l'oeil partout.
 
