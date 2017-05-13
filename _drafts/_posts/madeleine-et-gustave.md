@@ -13,9 +13,13 @@ photo_credit: ''
 
 Aujourd’hui j’ai passé la porte de [Madeleine et Gustave](http://madeleine-gustave.com/), boutique de déco maison, cuisine et jardin du Xème arrondissement de Paris.
 
-### L'entrée de Madeleine et Gustave
+![](/img/DSC02630.jpg)
 
-![](/img/DSC02640.jpg)
+### La boutique est ouverte du mardi au jeudi de 13h à 17h15, et le vendredi et samedi de 11h15 à 20h
+
+<img src="/img/DSC02640.jpg" class="">
+
+### L'entrée de Madeleine et Gustave
 
 J’ai découvert Madeleine et Gustave par hasard il y a quelques semaines, à l’occasion de l’une de mes nombreuses pérégrinations parisiennes du côté du Canal Saint-Martin. Avis aux accros au téléphone ou à ceux qui regardent leurs pieds en marchant : vous risquez de passer à côté. Pourtant, la grande façade de Madeleine et Gustave est imposante : à la manière d’une grande bay window en bois blanc, l’entrée donne sur la rue mais il faut tordre le cou vers le haut pour lire le nom de l’enseigne. Seul signe annonciateur : les plantes sorties devant qui vous signalent que vous êtes arrivé(e)(s).
 
@@ -25,20 +29,29 @@ Avis aux amateurs de cuisine, vous trouverez aussi les précédents exemplaires 
 
 Pour celles et ceux qui ne seraient pas déjà convaincus, une petite visite chez Madeleine et Gustave est aussi l’occasion de faire un tour à [Du Pain et des Idées](https://dupainetdesidees.com/en/) juste à côté, emblématique boulangerie parisienne où la baguette devrait pouvoir se payer en trois fois sans frais ; mais qu’est-ce que c’est bon !
 
-![](/img/DSC02593-1.jpg)
+<img src="img/DSC02593-2.jpg" class="">
 
-<img src="/img/DSC02595.jpg" class="">
+### Au plafond, au mur, sur le sol... il faut avoir l'oeil partout.
 
-<img src="/img/DSC02631.jpg" class="">
+![](/img/DSC02595-1.jpg)
 
-<img src="/img/DSC02597.jpg" class="">
+![](/img/DSC02631.jpg)
+
+### Le menu du café situé au 2ème étage
+
+![](/img/DSC02597.jpg)
+
+![](/img/DSC02628.jpg)
+
+![](/img/DSC02623.jpg)
 
 ![](/img/DSC02618.jpg)
 
-<img src="/img/DSC02628.jpg" class="">
-
-<img src="/img/DSC02623.jpg" class="">
-
 Pour retrouver plus d’informations sur Madeleine et Gustave, je vous invite à faire un tour sur leur <a href="http://madeleine-gustave.com/" class="">site internet</a>, ou passer directement à la boutique :
 
-**Madeleine et Gustave, 19 rue Yves Toudic 75010 Paris**
+**Madeleine et Gustave, [19 rue Yves Toudic 75010 Paris](https://www.google.fr/maps/place/MADELEINE+%26+GUSTAVE/@48.8704808,2.3608461,17z/data=!3m1!4b1!4m5!3m4!1s0x47e66e0950555883:0xa80d9ab598ad8ef3!8m2!3d48.8704808!4d2.3630401)**
+
+<span class="">Métro République ou Jacques Bonsergent<br></span>
+
+<span class=""><u><b>Et toi, tu connaissais cette boutique ? </b></u><br></span>
+
