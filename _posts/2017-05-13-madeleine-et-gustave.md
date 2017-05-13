@@ -54,4 +54,3 @@ Pour retrouver plus d’informations sur Madeleine et Gustave, je vous invite à
 <span class="">Métro République ou Jacques Bonsergent<br></span>
 
 <span class=""><u><b>Et toi, tu connaissais cette boutique ? </b></u><br></span>
-
