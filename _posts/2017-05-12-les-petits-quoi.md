@@ -8,11 +8,11 @@ title: 'Mais qui c''est, Hugues ? '
 date: 2017-05-12 18:16
 photo_credit: ''
 ---
+
+
 Bienvenue chez Les Petits Hugues !
 
-Je m’appelle Valentine et je suis étudiante en économie et en psychologie, mais avant tout férue de décoration, de plantes, de bijoux de petits créateurs et de tout ce qui est **fait maison**. J’habite à Paris depuis quelques mois, et j’ai été étonnée par le nombre de **créateurs indépendants** qui se lancent dans leur propre entreprise, que ce soit de la décoration, des accessoires, des vêtements ou encore de la peinture. Ils ont parfois l’occasion d’ouvrir une boutique, mais beaucoup vendent leurs créations sur leur propre site internet. C’est pour faire partager ces découvertes que j’ai eu l’idée de créer un blog qui soit une sorte de **vitrine virtuelle** sur ces indépendants qui souhaitent se démarquer des grandes chaînes, et revenir à un mode de consommation plus qualitatif que quantitatif. Bien sûr, ce ne sont pas toujours des boutiques bon marché, mais avec le prix vient un gage de qualité et de temps passé à sélectionner (ou créer) les produits. J’espère vous faire découvrir de jolies enseignes et vous donner envie, à votre tour, de soutenir ces initiatives et de reprendre goût à un savoir-faire plus **artisanal**.
-
-<br>
+Je m’appelle Valentine et je suis étudiante en économie et en psychologie, mais avant tout férue de décoration, de plantes, de bijoux de petits créateurs et de tout ce qui est **fait maison**. J’habite à Paris depuis quelques mois, et j’ai été étonnée par le nombre de **créateurs indépendants** qui se lancent dans leur propre entreprise, que ce soit de la décoration, des accessoires, des vêtements ou encore de la peinture. Ils ont parfois l’occasion d’ouvrir une boutique, mais beaucoup vendent leurs créations sur leur propre site internet. C’est pour faire partager ces découvertes que j’ai eu l’idée de créer un blog qui soit une sorte de **vitrine virtuelle** sur ces indépendants qui souhaitent se démarquer des grandes chaînes, et revenir à un mode de consommation plus qualitatif que quantitatif. Bien sûr, ce ne sont pas toujours des boutiques bon marché, mais avec le prix viennent un gage de qualité et de temps passé à sélectionner (ou créer) les produits. J’espère vous faire découvrir de jolies enseignes et vous donner envie, à votre tour, de soutenir ces initiatives et de reprendre goût à un savoir-faire plus **artisanal**.
 
 Pourquoi "Les Petits Hugues" ?
 
