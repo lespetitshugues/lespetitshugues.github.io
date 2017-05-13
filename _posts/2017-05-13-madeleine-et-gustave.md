@@ -29,7 +29,7 @@ Avis aux amateurs de cuisine, vous trouverez aussi les précédents exemplaires 
 
 Pour celles et ceux qui ne seraient pas déjà convaincus, une petite visite chez Madeleine et Gustave est aussi l’occasion de faire un tour à [Du Pain et des Idées](https://dupainetdesidees.com/en/) juste à côté, emblématique boulangerie parisienne où la baguette devrait pouvoir se payer en trois fois sans frais ; mais qu’est-ce que c’est bon !
 
-![](img/DSC02593-3.jpg)
+![](/img/DSC02593.jpg)
 
 ### Au plafond, au mur, sur le sol... il faut avoir l'oeil partout.
 
@@ -54,4 +54,3 @@ Pour retrouver plus d’informations sur Madeleine et Gustave, je vous invite à
 <span class="">Métro République ou Jacques Bonsergent<br></span>
 
 <span class=""><u><b>Et toi, tu connaissais cette boutique ? </b></u><br></span>
-
