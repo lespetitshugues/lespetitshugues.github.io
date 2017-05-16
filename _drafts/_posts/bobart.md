@@ -9,17 +9,19 @@ title: Bobart', concept store & bar à plantes
 date: 2017-05-15 16:09
 photo_credit: ''
 ---
-
-
 Cette semaine, l’objectif des Petits Hugues se balade chez Lucie et Anaïs, et leur boutique dans l'air du temps : Bobart'.
 
-Et oui, figurez-vous que dans le 4ème arrondissement, il n’y a pas que l’hôtel de Ville, le centre Pompidou et la rue des Francs-Bourgeois, il y a aussi de  chouettes boutiques, comme Bobart’, rue Saint Martin. Je vous parlais d’une caverne d’Ali Baba [la semaine dernière](http://lespetitshugues.fr/madeleine-et-gustave/) en me rendant chez Madeleine et Gustave mais ici, l’éventail des objets proposés est encore plus large : il y a un coin cuisine, un coin bijoux, un coin papeterie, un coin maroquinerie, un coin bougies, et un même bar à plantes. Autant dire qu'il y en a pour tous les goûts, tous les âges et tous les budgets, et c'est d'ailleurs la volonté des deux femmes qui tiennent la boutique.
+Et oui, figurez-vous que dans le 4ème arrondissement, il n’y a pas que l’hôtel de Ville, le centre Pompidou et la rue des Francs-Bourgeois, il y a aussi de  chouettes boutiques, comme Bobart’, rue Saint-Martin. Je vous parlais d’une caverne d’Ali Baba [la semaine dernière](http://lespetitshugues.fr/madeleine-et-gustave/) en me rendant chez Madeleine et Gustave mais ici, l’éventail des objets proposés est encore plus large : il y a un coin cuisine, un coin bijoux, un coin papeterie, un coin maroquinerie, un coin bougies, et un même bar à plantes. Autant dire qu'il y en a pour tous les goûts, tous les âges et tous les budgets, et c'est d'ailleurs l'une des concepts clé de la boutique.
 
 Jeune femme en recherche d’un nouveau sac à main, papa catastrophé parce que le petit Arthur vient de perdre son doudou dans le Marais, chef amateur à qui il manque un saladier, amoureux en recherche d’un cadeau ou éternel rêveur en quête du nouveau carnet qui viendra recueillir tous vos poèmes ? Qui que vous soyez, vous trouverez sûrement votre bonheur chez Bobart’.
 
 <img src="/img/DSC02689-1.jpg" class="">
 
-<img src="/img/DSC02705-1.jpg" class="">
+Ne craigniez pas de vous y perdre, toute l'équipe est là pour vous renseigner
+
+![](/img/DSC02705-2.jpg)
+
+### On y retrouve aussi toute une sélection de bijoux délicats
 
 Ce qui frappe en rentrant, c’est la couleur, l’énergie positive qui se dégage de cette boutique de “curiosités” - puisque que c’est le titre qu'elle revendique - ouverte il y a tout juste quatre ans. Derrière cette boutique se cachent en réalité Anaïs et Lucie, deux sœurs qu’une même passion pour la décoration rassemble, alors que l'une travaillait avant dans la maroquinerie, et l'autre dans diverses start-ups. Leur minutie et leur attention au détail ne font aucun doute : tous les objets sont soigneusement sélectionnés, sur internet, au gré des découvertes, et même en vacances ! Vous ne trouverez les créations de Rita, céramiste portugaise, que chez Bobart' : Lucie est tombée amoureuse de ses créations pendant des vacances au Portugal, et après en avoir ramené à toute la famille en souvenir, a proposé un partenariat à Rita. Le fruit de leur collaboration (Hand Ceramic x Bobart') se trouve à présent en exclusivité sur les étagères de la boutique.
 
@@ -49,7 +51,7 @@ Mais d’ailleurs, pourquoi “ Bobart’ "? Avant tout pour Beaubourg, auquel l
 
 ![](/img/DSC02673-1.jpg)
 
-### Les enfants aussi ont leur coin doudou
+### Les enfants aussi ont droit à leur coin doudou
 
 <img src="/img/DSC02674-1.jpg" class="">
 
@@ -67,6 +69,8 @@ Le coup de cœur des Petits Hugues ? Les bougies [Kerzon](http://www.kerzon.pari
 
 ### Les bougies Kerzon à retrouver chez Bobart'
 
-Vous retrouverez plus d'informations sur la boutique sur leur [site internet](http://bobart-store.com/) ou en allant directement passer le bonjour à Lucie, Anaïs et leur chouette équipe au **89 rue Saint-Martin, Paris 4ème**.(Métro Hôtel de Ville ou Châtelet)
+<br>
+
+Vous retrouverez plus d'informations sur la boutique sur leur [site internet](http://bobart-store.com/) ou en allant directement passer le bonjour à Lucie, Anaïs et leur chouette équipe au **89 rue Saint-Martin, Paris 4ème **(Métro Hôtel de Ville ou Châtelet).
 
 ## N'hésitez pas à me dire dans les commentaires pour quel objet vous craqueriez ;)
