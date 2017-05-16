@@ -5,7 +5,7 @@ hero_img: img/Front Bobart.jpg
 tags:
 - déco
 comments: 'true'
-title: Bobart'
+title: Bobart', concept store & bar à plantes
 date: 2017-05-15 16:09
 photo_credit: ''
 ---
