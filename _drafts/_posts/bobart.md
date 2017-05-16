@@ -1,7 +1,6 @@
 ---
 layout: post
-subtitle: Il n'y a pas que Pompidou qui est cool à visiter dans le IVème arrondissement
-  !
+subtitle: Il n'y a pas que Pompidou à visiter dans le IVème arrondissement !
 hero_img: img/Front Bobart.jpg
 tags:
 - déco
