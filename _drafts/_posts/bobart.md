@@ -9,6 +9,8 @@ title: Bobart', concept store & bar à plantes
 date: 2017-05-15 16:09
 photo_credit: ''
 ---
+
+
 Cette semaine, l’objectif des Petits Hugues se balade chez Lucie et Anaïs, et leur boutique dans l'air du temps : Bobart'.
 
 Et oui, figurez-vous que dans le 4ème arrondissement, il n’y a pas que l’hôtel de Ville, le centre Pompidou et la rue des Francs-Bourgeois, il y a aussi de  chouettes boutiques, comme Bobart’, rue Saint Martin. Je vous parlais d’une caverne d’Ali Baba [la semaine dernière](http://lespetitshugues.fr/madeleine-et-gustave/) en me rendant chez Madeleine et Gustave mais ici, l’éventail des objets proposés est encore plus large : il y a un coin cuisine, un coin bijoux, un coin papeterie, un coin maroquinerie, un coin bougies, et un même bar à plantes. Autant dire qu'il y en a pour tous les goûts, tous les âges et tous les budgets, et c'est d'ailleurs la volonté des deux femmes qui tiennent la boutique.
@@ -47,9 +49,15 @@ Mais d’ailleurs, pourquoi “ Bobart’ "? Avant tout pour Beaubourg, auquel l
 
 ![](/img/DSC02673-1.jpg)
 
+### Les enfants aussi ont leur coin doudou
+
 <img src="/img/DSC02674-1.jpg" class="">
 
 ![](/img/DSC02694.jpg)
+
+![](/img/DSC02670.jpg)
+
+### L'espace maroquinerie, au fond du magasin
 
 ![](/img/DSC02654-2.jpg)
 
@@ -58,7 +66,7 @@ Le coup de cœur des Petits Hugues ? Les bougies [Kerzon](http://www.kerzon.pari
 ![](/img/DSC02651-1.jpg)
 
 ### Les bougies Kerzon à retrouver chez Bobart'
-<br>
-Vous retrouverez plus d'informations sur la boutique sur leur [site internet](http://bobart-store.com/) ou en allant directement passer le bonjour à Lucie, Anaïs et leur chouette équipe au **89 rue Saint-Martin, Paris 4ème**.
+
+Vous retrouverez plus d'informations sur la boutique sur leur [site internet](http://bobart-store.com/) ou en allant directement passer le bonjour à Lucie, Anaïs et leur chouette équipe au **89 rue Saint-Martin, Paris 4ème**.(Métro Hôtel de Ville ou Châtelet)
 
 ## N'hésitez pas à me dire dans les commentaires pour quel objet vous craqueriez ;)
