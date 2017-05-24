@@ -14,7 +14,7 @@ photo_credit: 'Les Editions du Paon '
 
 Aujourd'hui c'est un article un peu différent que je vous propose, puisque je ne suis pas allée à la rencontre d'une nouvelle boutique. Je vous parle plutôt d'un véritable **coup de cœur** que j'ai eu pour une petite entreprise de papeterie nantaise : les Éditions du Paon.
 
-Cette entreprise plutôt récente a été créée par Pascal et Elsa, deux graphistes de profession qui sont se lancés dans l'impression "letterpress", d'abord pour des agences, puis à leur compte, pour laisser parler leur créativité à travers des carnets, des cartes, des affichettes ou encore des semainiers.
+Cette petite boîte a été créée par Pascal et Elsa, deux graphistes de profession qui se sont lancés dans l'impression artisanale, d'abord pour des agences, puis à leur propre compte, et laissent parler leur créativité à travers des carnets, des cartes, des affichettes ou encore des semainiers.
 
 ![](/img/paon8.jpeg)
 
@@ -44,7 +44,7 @@ Vous l'aurez compris, c'est un concept qui avait tout pour me séduire quand je 
 
 ### Les étapes de réalisation sont à retrouver sur leur site internet // Crédit image : Les Éditions du Paon
 
-Si le prix m'a un peu freinée au départ, il a suffit d'un coup d'œil furtif sur cette affiche dans la vitrine de la boutique [Inspirations](http://www.inspirations.fr/) à Nantes pour craquer. Ça m'a même pris une sacrée dose de volonté de ne repartir qu'avec une seule affiche ! Après un détour chez Rougier & Plé pour trouver un cadre, puis un détour par chez mes parents pour piquer de la peinture acrylique bleue, voici le résultat : un cœur d'artichaut fièrement affiché au-dessus de mon bureau, et qui me fait sourire dès que je passe devant. Le moins que je puisse dire, c'est que le prix est clairement justifié par la qualité du produit final. L’impression est vraiment belle et l'affiche est légèrement embossée, ce qui lui donne un aspect encore plus authentique et qualitatif qu'une simple impression.
+Si le prix m'a un peu freinée au départ, il a suffit d'un coup d'œil furtif sur cette affiche dans la vitrine d'une boutique pour craquer. Ça m'a même pris une sacrée dose de volonté de ne repartir qu'avec une seule affiche ! Après un détour chez Rougier & Plé pour trouver un cadre, puis un détour par chez mes parents pour piquer de la peinture acrylique bleue, voici le résultat : un cœur d'artichaut fièrement affiché au-dessus de mon bureau, et qui me fait sourire dès que je passe devant. Le moins que je puisse dire, c'est que le prix est clairement justifié par la qualité du produit final. L’impression est vraiment belle et l'affiche est légèrement embossée, ce qui lui donne un aspect encore plus authentique et qualitatif qu'une simple impression.
 
 ![](/img/IMG_1078.jpg)
 
@@ -52,6 +52,6 @@ Si le prix m'a un peu freinée au départ, il a suffit d'un coup d'œil furtif s
 
 Pour les néophytes curieux qui se demandent comment étaient fabriqués les carnets dans le temps, je leur conseille vivement le [blog](https://www.leseditionsdupaon.fr/blog/) des Éditions du Paon, où Pascal et Elsa nous racontent ce savoir-faire qu'ils entendent bien remettre au goût du jour. Il y a aussi de très jolies vidéos, très courtes, qui montrent leur fameuse presse en action.
 
-Vous pouvez retrouver les créations des Éditions du Paon sur leur [e-shop](http://leseditionsdupaon.bigcartel.com/products) ou dans certaines papeteries et boutiques de déco. Avis aux parisien(ne)s, j'en ai récemment aperçu chez [Boisnard](http://www.boisnard.fr/) dans le 8ème (métro Saint-Philippe du Roule) !
+Vous pouvez retrouver les créations des Éditions du Paon sur leur [e-shop](http://leseditionsdupaon.bigcartel.com/products) ou dans certaines papeteries et boutiques de déco, comme [Inspirations](http://www.inspirations.fr/) à Nantes ou [Paillettes](http://www.paillette.org/) à Angers. Avis aux parisien(ne)s, j'en ai récemment aperçu chez [Boisnard](http://www.boisnard.fr/) dans le 8ème (métro Saint-Philippe du Roule) !
 
 ## N'hésitez pas à me suggérer d'autres jolies marques de papeterie, on n'a jamais assez de carnets ;)
