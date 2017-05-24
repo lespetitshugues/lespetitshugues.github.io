@@ -14,7 +14,7 @@ photo_credit: 'Les Editions du Paon '
 
 Aujourd'hui c'est un article un peu différent que je vous propose, puisque je ne suis pas allée à la rencontre d'une nouvelle boutique. Je vous parle plutôt d'un véritable **coup de cœur** que j'ai eu pour une petite entreprise de papeterie nantaise : les Éditions du Paon.
 
-Cette petite boîte a été créée par Pascal et Elsa, deux graphistes de profession qui se sont lancés dans l'impression artisanale, d'abord pour des agences, puis à leur propre compte, et laissent parler leur créativité à travers des carnets, des cartes, des affichettes ou encore des semainiers.
+Un bien joli nom pour une entreprise qui a été créée assez récemment par Pascal et Elsa, deux graphistes de profession qui se sont lancés dans l'impression artisanale d'abord pour des agences, puis à leur propre compte, et qui laissent parler leur créativité à travers des carnets, des cartes, des affichettes et des semainiers.
 
 ![](/img/paon8.jpeg)
 
