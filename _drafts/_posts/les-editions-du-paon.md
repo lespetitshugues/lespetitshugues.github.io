@@ -18,19 +18,19 @@ Aujourd'hui c'est un article un peu différent que je vous propose, puisque je n
 
 ### Le trio de carnets Happy Canoë // Crédit image : Les Éditions du Paon
 
-Le credo des Editions du Paon ? Du papier de qualité, un retour aux sources côté imprimerie avec une presse à platine datant de 1970, des motifs travaillés et une pointe d'humour; tout cela, imaginé, dessiné et réalisé en France à l'encre végétal et au papier recyclé. Dans leur atelier, Pascal et Elsa travaillent leurs matières premières avec soin, que ce soit le choix du papier, du bronze pour l'impression ou de la couleur de l'encre, éventail Pantone à l'appui. Les carnets sont reliés par une couture "Singer", et l'attention portée au détail se retrouve jusqu'au choix minutieux de la couleur du fil de reliure, pour qu'il ne jure pas avec le motif et la couleur de la couverture. Ma machine à coudre et moi-même, on est très impressionnées et on tire notre chapeau à ce souci de l'authenticité !
+Le credo des Editions du Paon ? Du papier de qualité, un retour aux sources côté imprimerie avec une presse à platine datant de 1970, des motifs travaillés et une pointe d'humour; tout cela, imaginé, dessiné et réalisé en France à l'encre végétale et au papier recyclé. Dans leur atelier, Pascal et Elsa travaillent leurs matières premières avec soin, que ce soit le choix du papier, du bronze pour l'impression ou de la couleur de l'encre, éventail Pantone à l'appui. Les carnets sont reliés par une couture "Singer", et l'attention portée au détail se retrouve jusqu'au choix minutieux de la couleur du fil de reliure, pour qu'il ne jure pas avec le motif et la couleur de la couverture. Ma machine à coudre et moi-même, on est très impressionnées et on tire notre chapeau à ce souci de l'authenticité !
 
 Vous l'aurez compris, c'est un concept qui avait tout pour me séduire quand je suis tombée par hasard sur leur site internet à Noël, en cherchant des affiches originales à offrir. Je suis tout de suite tombée en pâmoison (#ExpressionMoyenâgeuse) devant leur affiche [Cœur d'artichaut](http://leseditionsdupaon.bigcartel.com/product/affichette-cur-artichaut-rose), qui me rappelle les stages de gravure que je faisais petite pendant les vacances scolaires. Inutile de vous cacher que mes gravures de légumes ressemblaient plus à des céleris rave qu'à de jolis artichauts.
 
 <img src="/img/Paon2.jpeg" class="">
 
-### Leur presse typographique Heidelberg // Crédit d'image : Les Éditions du Paon
+### Leur presse typographique Heidelberg // Crédit image : Les Éditions du Paon
 
 ![](/img/Paon1.jpeg)
 
-Crédit d'image : les Éditions du Paon
+### Les étapes de réalisation sont à retrouver sur leur site internet // Crédit image : Les Éditions du Paon
 
-Si le prix m'a un peu freinée au départ, il a suffit d'un coup d'œil furtif sur cette affiche dans la vitrine de la boutique [Inspirations](http://www.inspirations.fr/) à Nantes pour craquer. Ça m'a même pris une sacrée dose de volonté de ne repartir qu'avec une seule affiche ! Après un détour chez Rougier & Plé pour trouver un cadre, puis un détour par chez mes parents pour piquer de la peinture acrylique bleue, voici le résultat : un cœur d'artichaut fièrement affiché au-dessus de mon bureau, et qui me fait sourire dès que je passe devant. La qualité de l’impression est vraiment belle et l'affiche est légèrement embossée, ce qui lui donne un aspect encore plus authentique et qualitatif qu'une simple impression.
+Si le prix m'a un peu freinée au départ, il a suffit d'un coup d'œil furtif sur cette affiche dans la vitrine de la boutique [Inspirations](http://www.inspirations.fr/) à Nantes pour craquer. Ça m'a même pris une sacrée dose de volonté de ne repartir qu'avec une seule affiche ! Après un détour chez Rougier & Plé pour trouver un cadre, puis un détour par chez mes parents pour piquer de la peinture acrylique bleue, voici le résultat : un cœur d'artichaut fièrement affiché au-dessus de mon bureau, et qui me fait sourire dès que je passe devant. Le moins que je puisse dire, c'est que le prix est clairement justifié par la qualité du produit final. L’impression est vraiment belle et l'affiche est légèrement embossée, ce qui lui donne un aspect encore plus authentique et qualitatif qu'une simple impression.
 
 ![](/img/IMG_1078.jpg)
 
