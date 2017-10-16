@@ -1,0 +1,57 @@
+---
+pages:
+- _posts/le-kit-indispensable-de-la-serial-lunch-boxeuse.md
+- _posts/2017-05-24-les-editions-du-paon.md
+- _posts/2017-05-16-bobart.md
+- _posts/2017-02-22-premier-article.md
+- _posts/2017-05-12-les-petits-quoi.md
+- _posts/2017-05-13-madeleine-et-gustave.md
+- _posts/2017-02-24-nina-des-tomates-et-des-bombes.md
+- _posts/2017-04-21-un-week-end-a-lille.md
+- _posts/2017-02-25-fievre-de-la-decoration-quand-tu-nous-tiens.md
+hide_body: false
+fields:
+- name: layout
+  label: Layout
+  type: text
+  hidden: true
+  default: post
+- name: title
+  label: Titre
+  type: text
+  hidden: false
+  default: ''
+- name: subtitle
+  label: Sous-titre
+  type: textarea
+  hidden: false
+  default: ''
+  description: Description courte, extrait, sous-titre...
+- name: hero_img
+  label: Image
+  type: file
+  hidden: false
+  default: ''
+  description: Image principale/de garde
+- name: photo_credit
+  label: Crédit image
+  type: text
+  hidden: false
+  default: ''
+  description: Nom du propriétaire de l'image
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: tags
+  label: Tags
+  type: tag_list
+  hidden: false
+  default: []
+- name: comments
+  label: Commentaires
+  type: boolean
+  hidden: false
+  default: 'true'
+  description: Activer/désactiver le module de commentaires pour cet article
