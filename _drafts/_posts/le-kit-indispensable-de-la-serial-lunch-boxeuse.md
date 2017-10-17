@@ -15,11 +15,7 @@ title: Confessions d'une accro aux lunch-box
 
 *Je m’étonne de ne pas trouver le terme “lunch-boxeuse(eur)” - dérivé du verbe “lunch-boxer”, c'est-à-dire “emmener son casse-croûte à la fac ou au travail”, à votre édition 2017 du Larousse. Je vous remercie de remédier à cet oubli fâcheux pour l’édition 2018*”.
 
-<br />
-
 Ce n’est un secret pour personne dans mon entourage que je suis une grande fan des lunch-box. Pour celles et ceux qui ne seraient pas familiers avec ce concept, les lunch-box sont tout simplement des tupperwares que l’on emmène le midi au travail, à la fac, à l’école, et même le dimanche en pique-nique pour éviter d’avoir à acheter un déjeuner sur le pouce.
-
-<br />
 
 Les lunch-box présentent beaucoup d’avantages… :
 
@@ -32,6 +28,8 @@ Les lunch-box présentent beaucoup d’avantages… :
 * elles peuvent être aussi **variées** que vous le souhaitez
 
 * on sait exactement ce que l’on met dedans
+
+<br />
 
 … Mais aussi quelques inconvénients :
 
@@ -52,6 +50,7 @@ Vous l’aurez compris entre les lignes, pour moi les avantages dépassent de tr
 1. Avoir toujours sous la main des **conserves** en tous genres : maïs, pois chiches, cœurs de palmiers... selon vos goûts, et des “**petits plus**” (graines, herbes, fruits secs).
 
 1. **Cuisiner pour quatre** le soir. Un des secrets de la lunch-boxeuse, à mon avis, est de toujours préparer un dîner en quantités supérieures à ses besoins ou aux besoins de son foyer. De cette façon il y a toujours des restes, ce qui veut dire une lunch-box toute prête pour le lendemain matin. Et voilà une bonne excuse à rétorquer à vos chéri(e)s ou vos parents qui vous reprochent d’avoir encore cuisiné pour un régiment : “mais noooon, c’est pour ma lunch-box !”.
+
 1. Ne pas devenir un(e) snob de la lunch-box : Certes, les lunch-box coûtent moins cher qu’un repas pris à l’extérieur, et sont souvent plus équilibrées, mais comme pour toute lubie il faut aussi savoir dire stop de temps en temps et s’accorder un petit restaurant ou sandwich entre copains/collègues le midi. Double effet kiss-cool garanti !
 
 ![](/img/lunch-box-200762_1920.jpg)
@@ -67,4 +66,3 @@ Avant de vous laisser, voici quelques sources d'inspiration pour vous donner des
 J'espère que cet article vous aura donné envie, vous aussi, de composer vos lunch-box. A faire tourner à tous vos copains et copines qui ne seraient pas convaincu(e)s !
 
 ## Et vous, de quoi se compose votre lunch-box idéale ?
-
