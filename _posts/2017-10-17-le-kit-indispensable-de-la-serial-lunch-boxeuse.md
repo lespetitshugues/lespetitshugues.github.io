@@ -15,6 +15,8 @@ title: Confessions d'une accro aux lunch-box
 
 *Je m’étonne de ne pas trouver le terme “lunch-boxeuse(eur)” - dérivé du verbe “lunch-boxer”, c'est-à-dire “emmener son casse-croûte à la fac ou au travail”, à votre édition 2017 du Larousse. Je vous remercie de remédier à cet oubli fâcheux pour l’édition 2018*”.
 
+Aujourd'hui sur le blog, je reviens pour vous parler d'un sujet qui dévie un peu de mon thème déco, mais qui me plaît tout autant.
+
 Ce n’est un secret pour personne dans mon entourage que je suis une grande fan des lunch-box. Pour celles et ceux qui ne seraient pas familiers avec ce concept, les lunch-box sont tout simplement des tupperwares que l’on emmène le midi au travail, à la fac, à l’école, et même le dimanche en pique-nique pour éviter d’avoir à acheter un déjeuner sur le pouce.
 
 Les lunch-box présentent beaucoup d’avantages… :
@@ -28,8 +30,6 @@ Les lunch-box présentent beaucoup d’avantages… :
 * elles peuvent être aussi **variées** que vous le souhaitez
 
 * on sait exactement ce que l’on met dedans
-
-<br />
 
 … Mais aussi quelques inconvénients :
 
