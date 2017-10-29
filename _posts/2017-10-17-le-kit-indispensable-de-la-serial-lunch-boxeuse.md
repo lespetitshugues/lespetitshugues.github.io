@@ -1,7 +1,7 @@
 ---
 comments: true
 date: 2017-10-16 00:00:00 +0000
-hero_img: img/Lunch box 1.jpg
+hero_img: img/Lunch-box-1.jpg
 layout: post
 photo_credit: ''
 subtitle: Dans cet article, je vous présente le kit indispensable pour devenir un(e)
