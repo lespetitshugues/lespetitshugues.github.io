@@ -6,7 +6,7 @@ photo_credit: Ingrid Mareski
 tags: 
 comments: true
 title: Nina, des tomates et des bombes
-date: 2017-02-09 14:01
+date: 2017-02-09 00:00:00 +0000
 ---
 C’était hier soir, à 21h30, au théâtre Essaion, bien dissimulé dans une petite ruelle du Marais. Marie-Claire Neveu, alias Nina, y jouait sa pièce “Des tomates et des bombes”. A vrai dire, je ne savais pas trop à quoi m’attendre avant que le spectacle commence. J’avais lu des bonnes critiques, ce qui est toujours réconfortant quand on est comme moi, accro à [Parisianavores](https://parisianavores.paris/) pour trouver un resto à Paris ou BilletRéduc pour trouver un bon spectacle. La [bande-annonce](https://www.youtube.com/watch?v=SOiyJ8tv1rc) de ce one-woman show est assez mystérieuse; au moins, elle a le mérite de ne pas dévoiler tout le spectacle avant qu’on l’ait vu.
 
