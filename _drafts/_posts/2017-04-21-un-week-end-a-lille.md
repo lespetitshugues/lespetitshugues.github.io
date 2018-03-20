@@ -5,7 +5,7 @@ hero_img: img/posts/Lille.jpeg
 tags: []
 comments: true
 title: "À la découverte de Lille"
-date: 2017-04-21 14:33
+date: 2017-04-21 00:00:00 +0000
 photo_credit: Romain Van de Louw, romainvandelouw.com
 ---
 
