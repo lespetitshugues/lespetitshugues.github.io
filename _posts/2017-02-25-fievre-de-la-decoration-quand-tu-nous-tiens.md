@@ -1,11 +1,11 @@
 ---
 layout: post
 subtitle: Dans cet article, on parle déco fait maison !
-hero_img: img/posts/affiche-coeur-d-artichaut-rose-1.jpeg
+hero_img: "/img/posts/IMG_1090.jpg"
 tags: []
 comments: true
 title: Fièvre du DIY quand tu nous tiens
-date: 2017-02-24 00:00:00 +0000
+date: 2017-05-26 18:48:00 +0200
 photo_credit: Frenchblossom.com
 ---
 
