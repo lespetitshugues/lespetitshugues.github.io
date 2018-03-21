@@ -1,12 +1,12 @@
 ---
 layout: post
 subtitle: ''
-hero_img: ''
+hero_img: img/DSC01474.jpg
 tags: []
 comments: true
 title: Les promesses de 2018
 date: 2018-03-21 00:00:00 +0000
-photo_credit: ''
+photo_credit: Cet article m'est venu à l'esprit sur un télésiège, pour tout vous dire...
 ---
 Déjà le 21 mars. Comme le temps passe vite, et comme il est peu original de le souligner. J’ai l’impression que c’était hier qu’on se souhaitait la bonne année, une coupe de champagne à la main, mi-pompettes, mi-hilares, pleins d’une détermination nouvelle pour cette nouvelle année qu’on s’est souhaitée toujours plus joyeuse, plus réussie, et plus festive.
 
