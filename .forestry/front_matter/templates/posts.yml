@@ -1,14 +1,5 @@
 ---
-pages:
-- _posts/2017-02-25-fievre-de-la-decoration-quand-tu-nous-tiens.md
-- _posts/2017-02-24-nina-des-tomates-et-des-bombes.md
-- _posts/2017-04-21-un-week-end-a-lille.md
-- _posts/2017-05-12-les-petits-quoi.md
-- _posts/2017-05-24-les-editions-du-paon.md
-- _posts/2017-10-17-le-kit-indispensable-de-la-serial-lunch-boxeuse.md
-- _posts/2017-05-16-bobart.md
-- _posts/2017-02-22-premier-article.md
-- _posts/2017-05-13-madeleine-et-gustave.md
+label: posts
 hide_body: false
 fields:
 - name: layout
