@@ -4,12 +4,11 @@ subtitle: 'Petit topo sur un week-end à Lille entre copines '
 hero_img: img/posts/Lille.jpeg
 tags: []
 comments: true
-title: "À la découverte de Lille"
-date: 2017-06-14 14:33:00 +0200
+title: À la découverte de Lille
+date: 2017-06-14T12:33:00.000+00:00
 photo_credit: Romain Van de Louw, romainvandelouw.com
+
 ---
-
-
 Après plusieurs mois à ne pas écrire, par manque d'inspiration, peur de décevoir, de faire moins bien qu'ailleurs, je profite d'être (à moitié) en vacances pour publier plus de contenu sur mon blog. Quand il ne reste qu'un mémoire à écrire avant fin mai, c'est quasiment les vacances, non ?
 
 
@@ -49,5 +48,3 @@ Quelques découvertes au détour des rues :
 
 
 Le dimanche soir et le retour sur Paris sont arrivés très vites, mais trois jours nous ont déjà suffi pour prendre nos premiers repères. Le vieux Lille n’est pas très grand : on peut en faire le tour en trois jours, mais je suis sûre qu’on est passées à côté de beaucoup d’endroits cachés qu’on ne repère pas forcément sur internet ou du premier coup d’œil. Bonne excuse pour y revenir !
-
-
