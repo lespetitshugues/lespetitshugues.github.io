@@ -5,11 +5,10 @@ hero_img: "/img/posts/IMG_1090.jpg"
 tags: []
 comments: true
 title: Fièvre du DIY quand tu nous tiens
-date: 2017-05-26 18:48:00 +0200
+date: 2017-05-26T16:48:00.000+00:00
 photo_credit: ''
+
 ---
-
-
 Dire que j’ai peu d’expérience en matière de décoration d’intérieur, c'est un euphémisme. Si je devais passer un entretien chez Habitat ou Maisons du Monde, je mettrai en avant le fait que j’ai déjà redécoré 52 maison de Sim’s, et qu’ils avaient l’air plutôt contents d’après leur jauge de bonne humeur. Ça me fait une belle jambe.
 
 

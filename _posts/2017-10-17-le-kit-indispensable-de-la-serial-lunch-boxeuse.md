@@ -1,6 +1,6 @@
 ---
 comments: true
-date: 2017-10-16 00:00:00 +0000
+date: 2017-10-16T00:00:00.000+00:00
 hero_img: img/pumpkin-soup-2972858_1920.jpg
 layout: post
 photo_credit: ''
@@ -8,9 +8,8 @@ subtitle: Dans cet article, je vous présente le kit indispensable pour devenir 
   pro des lunch-box
 tags: []
 title: Confessions d'une accro aux lunch-box
+
 ---
-
-
 “*Cher Alain Rey,*
 
 *Je m’étonne de ne pas trouver le terme “lunch-boxeuse(eur)” - dérivé du verbe “lunch-boxer”, c'est-à-dire “emmener son casse-croûte à la fac ou au travail”, à votre édition 2017 du Larousse. Je vous remercie de remédier à cet oubli fâcheux pour l’édition 2018*”.
