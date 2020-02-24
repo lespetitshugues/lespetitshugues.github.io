@@ -5,8 +5,9 @@ hero_img: img/DSC02592.jpg
 tags: []
 comments: true
 title: 'Mais qui c''est, Hugues ? '
-date: 2017-05-12 00:00:00 +0000
+date: 2017-05-12T00:00:00.000+00:00
 photo_credit: ''
+
 ---
 Bienvenue chez Les Petits Hugues !
 
