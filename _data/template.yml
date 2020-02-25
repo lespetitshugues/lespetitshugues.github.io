@@ -4,14 +4,14 @@ font:
   secondary: '"Lora", Helvetica'
   third: '"Open Sans", Helvetica'
 color:
-  primary: 5c74ad
+  primary: c1768b
   secondary: c2ccce
 social:
   instagram: https://www.instagram.com/lespetitshugues/
   facebook: https://www.facebook.com/lespetitshugues/?fref=ts
   pinterest: https://fr.pinterest.com/lespetitshugues/
 logo:
-  img: "/img/logo.jpg"
+  img: "/img/logo.png"
 description:
   footer: Tour de Paris et de ses créateurs indépendants, bijoux, accessoires et déco.
     Bienvenue !
