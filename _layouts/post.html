@@ -14,20 +14,22 @@
 	    <section>
       {{ content }}
       </section>
+      <br>
     <hr>
     <section class="section-small">
     <div class="text-center">
-      <h5 class="date-post">Partager cet article</h5>
-      <a href="{{site.url}}{{post.url}}" rel="nofollow" onclick="window.open('https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}&title={{post.title}}', 'newwindow', 'width=600, height=400'); return false;" target="_blank" title="Partager sur Facebook"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+      <h4 class="date-post">Derniers articles</h4>
+      <!--<a href="{{site.url}}{{post.url}}" rel="nofollow" onclick="window.open('https://www.facebook.com/sharer.php?u={{site.url}}{{page.url}}&title={{post.title}}', 'newwindow', 'width=600, height=400'); return false;" target="_blank" title="Partager sur Facebook"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>-->
     </div>
     </section>
     <hr>
   </div>
 
 <section>
+  {% assign posts = site.posts | sort: 'date' | reverse %}
   <div class="container">
         {% for post in site.posts limit:3 %}
-           {% cycle 'add row' : '<div class="row">', nil, nil, %}
+           {% cycle 'add row' : '<div class="row">', '<!--for fun-->', '<!--for fun-->' %}
            <div class="col-md-4">
          		<a href="{{site.baseurl}}{{post.url}}">
          			<div class="well well-post">
@@ -39,7 +41,7 @@
          			 	<!--  <a href="{{site.baseurl}}{{post.tags}}"><div class="well-tag"><i class="fa fa-tag" aria-hidden="true"></i> {{ post.tags }}</div></a>-->
          			</div>
          	</div>
-         {% cycle 'end row' : nil, nil, '</div>' %}
+          {% cycle 'end row' : '<!--just-->', '<!--just-->', '</div>' %}
         {% endfor %}
     </div>
   </section>

@@ -260,6 +260,7 @@ font-weight: 200;
 }
 .contact-form{
 	font-family: {{ site.data.template.font.third }};
+	color: #1d1d1d;
 }
 @media (max-width: 768px) {
 	.contact-form{
@@ -268,6 +269,7 @@ font-weight: 200;
 }
 .blog-desc{
 	margin-bottom:40px;
+	color:#1d1d1d;
 }
 .photo-credit {
 	font-family: {{ site.data.template.font.third }};
